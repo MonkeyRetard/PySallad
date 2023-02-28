@@ -1,0 +1,1 @@
+Welcome to Sallad Encryption. This Tool Encrypts Symbols, letter, and Numbers with ease and is very fast.
