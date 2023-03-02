@@ -1,14 +1,13 @@
 [build-system]
-requires = ["setuptools>=61.0"]
-build-backend = "setuptools.build_meta"
-
+requires = ["setuptools>=61.0", "random"]
+build-backend = "setuptools.build_meta"0
 [project]
-name = "Sallad_Encryption"
-version = "0.1.0"
+name = "Sallad"
+version = "1.0.0"
 authors = [
   { name="Dallas Baker", email="lildallas463@gmai.com" },
 ]
-description = "A small example package"
+description = "A Package that can Encrypt and Generate IDs and Seeds"
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
@@ -18,5 +17,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = ""
-"Bug Tracker" = ""
+"Homepage" = "https://github.com/MonkeyRetard/Sallad"
+"Bug Tracker" = "https://github.com/MonkeyRetard/Sallad/issues"

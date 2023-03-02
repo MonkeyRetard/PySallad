@@ -1,1 +1,1 @@
-Welcome to Sallad Encryption. This Tool Encrypts Symbols, letter, and Numbers with ease and is very fast.
+Welcome to Sallad. This is a Tool that Encrypts Symbols, letter, and Numbers and generates IDs, and Seeds with ease.
